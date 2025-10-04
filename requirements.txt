@@ -1,0 +1,12 @@
+langgraph
+langchain-core
+langchain-openai
+pydantic>=2
+fastapi
+uvicorn[standard]
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+pgvector           # optional RAG
+langchain-postgres # optional RAG
+sentence-transformers
